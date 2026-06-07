@@ -1,0 +1,9 @@
+# No external dependencies required!
+# Python 3.x standard library only:
+# - tkinter (built-in GUI library)
+# - threading (built-in)
+# - random (built-in)
+# - time (built-in)
+
+# To run:
+# python traffic_simulator.py
